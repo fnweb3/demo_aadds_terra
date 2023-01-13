@@ -1,1 +1,1 @@
-# demo_aadds_terra
+# Deploy Azure AD Domain Services demo with terraform
